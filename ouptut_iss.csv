@@ -1,0 +1,11 @@
+message,timestamp,iss_position
+success,1685199199,"{'latitude': '-7.4443', 'longitude': '-43.6939'}"
+success,1685199200,"{'latitude': '-7.4191', 'longitude': '-43.6756'}"
+success,1685199200,"{'latitude': '-7.3938', 'longitude': '-43.6573'}"
+success,1685199201,"{'latitude': '-7.3433', 'longitude': '-43.6206'}"
+success,1685199202,"{'latitude': '-7.3180', 'longitude': '-43.6023'}"
+success,1685199202,"{'latitude': '-7.2928', 'longitude': '-43.5840'}"
+success,1685199203,"{'latitude': '-7.2423', 'longitude': '-43.5474'}"
+success,1685199204,"{'latitude': '-7.2170', 'longitude': '-43.5291'}"
+success,1685199204,"{'latitude': '-7.1917', 'longitude': '-43.5107'}"
+success,1685199205,"{'latitude': '-7.1665', 'longitude': '-43.4924'}"
